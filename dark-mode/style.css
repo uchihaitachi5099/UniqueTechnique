@@ -1,0 +1,129 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin: 0;
+    background-color: #19283F;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+button {
+    font-weight: 500;
+}
+
+.button {
+    color: white;
+    background-color: rgb(7, 7, 224);
+    border: none;
+    padding: 13px ;
+    border-radius: 15px;
+    outline: none;
+    display: inline-block;
+}
+.button a {
+        color: inherit;
+        text-decoration: none;
+}
+
+.button:hover {
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+}
+
+.header-section {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 125px;
+}.header-section nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.header-section main {
+    text-align: center;
+}
+
+.header-section h1,
+.header-section h2 {
+    margin: 0;
+    line-height: 90%;
+}
+.menu {
+    list-style: none;
+    margin: 0;
+}
+.menu-item {
+    display: inline-block;
+    padding-right: 30px;
+    line-height: 27px;
+}
+
+.menu-item:last-of-type {
+    border-right: 1px solid darkblue;
+}
+.menu-item a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.menu-item a:hover {
+    color: black;
+}
+.search-button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    margin: 0 20px;
+}
+.search-icon {
+    display: block;
+    width: 200px;
+    height: 84px;
+    background: url(/photo/logo.png) no-repeat;
+}
+.idk {
+    text-align: left;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+text-idk {
+    text-align: right;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px; 
+}
+
+
+
+
+.button1 {
+    font-weight: 500;
+}
+.button1 {
+    color: white;
+    background-image: linear-gradient(562deg,  #28d0df, rgb(127, 3, 172),#28d0df);
+    border: none;
+    padding: 13px 40px;
+    border-radius: 15px;
+    outline: none;
+    display: inline-block;
+}
+.button1 a {
+    color: inherit;
+   text-decoration: none;
+}
+
+.button1:hover {
+    cursor: pointer;
+}

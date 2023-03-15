@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     margin: 0;
-    background-color: #19283F;
+    background-image: linear-gradient(562deg,  #28d0df, rgb(127, 3, 172),#28d0df);
 }
 .container {
     width: 1170px;

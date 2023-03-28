@@ -127,3 +127,6 @@ text-idk {
 .button1:hover {
     cursor: pointer;
 }
+.About {
+    font-size: 20px;
+}

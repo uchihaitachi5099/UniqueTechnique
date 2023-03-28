@@ -13,4 +13,5 @@ function handleSubmit(e) {
     console.log(`to: ${to}`)
     console.log(`subject: ${subject}`)
     console.log(`message: ${message}`)
+    aleart (твоето съобщение беше пратено)
 }
